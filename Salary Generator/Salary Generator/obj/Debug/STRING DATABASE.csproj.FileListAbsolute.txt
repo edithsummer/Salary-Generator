@@ -1,0 +1,10 @@
+C:\Users\Student\OneDrive\Desktop\visual C#\STRING DATABASE\STRING DATABASE\bin\Debug\STRING DATABASE.exe.config
+C:\Users\Student\OneDrive\Desktop\visual C#\STRING DATABASE\STRING DATABASE\bin\Debug\STRING DATABASE.exe
+C:\Users\Student\OneDrive\Desktop\visual C#\STRING DATABASE\STRING DATABASE\bin\Debug\STRING DATABASE.pdb
+C:\Users\Student\OneDrive\Desktop\visual C#\STRING DATABASE\STRING DATABASE\obj\Debug\STRING DATABASE.csprojResolveAssemblyReference.cache
+C:\Users\Student\OneDrive\Desktop\visual C#\STRING DATABASE\STRING DATABASE\obj\Debug\STRING_DATABASE.Form1.resources
+C:\Users\Student\OneDrive\Desktop\visual C#\STRING DATABASE\STRING DATABASE\obj\Debug\STRING_DATABASE.Properties.Resources.resources
+C:\Users\Student\OneDrive\Desktop\visual C#\STRING DATABASE\STRING DATABASE\obj\Debug\STRING DATABASE.csproj.GenerateResource.Cache
+C:\Users\Student\OneDrive\Desktop\visual C#\STRING DATABASE\STRING DATABASE\obj\Debug\STRING DATABASE.exe
+C:\Users\Student\OneDrive\Desktop\visual C#\STRING DATABASE\STRING DATABASE\obj\Debug\STRING DATABASE.pdb
+C:\Users\Student\OneDrive\Desktop\visual C#\STRING DATABASE\STRING DATABASE\obj\Debug\STRING_DATABASE.tree.resources
